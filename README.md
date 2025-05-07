@@ -29,11 +29,10 @@ It allows users to explore real-time crypto data, search coins, view market tren
 
 ## 📸 Screenshots
 
-> Add your screenshots below this section
 
 | Home Page | Coin Detail Page |
 |-----------|------------------|
-| ![Home Screenshot](./screenshots/home.png) | ![Detail Screenshot](./screenshots/detail.png) |
+| ![Image](https://github.com/user-attachments/assets/f3938cce-c66e-410f-9af7-50d2c2a0fdd6) | ![Image](https://github.com/user-attachments/assets/c73bef41-52ac-4598-9ff1-949dee9629ac) |
 
 ---
 
