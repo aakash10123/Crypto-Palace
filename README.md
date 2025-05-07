@@ -1,12 +1,52 @@
-# React + Vite
+# 🚀 Crypto Palace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Crypto Palace** is a modern cryptocurrency tracking web app built using **React**, **Tailwind CSS**, and **CoinGecko API**.  
+It allows users to explore real-time crypto data, search coins, view market trends, and access detailed information for each token.  
 
-Currently, two official plugins are available:
+## 🧠 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Live search with coin suggestions  
+- 💱 Currency switcher (USD, INR, EUR)  
+- 📊 Detailed coin pages with real-time market info  
+- 📉 24h price change indicators  
+- 📈 Market cap, rank, and price display  
+- 🔐 Role-based access (planned)  
+- 💡 Smooth UI transitions with Tailwind  
+- 🌐 Routing with React Router DOM  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React JS**  
+- **Tailwind CSS**  
+- **CoinGecko API**  
+- **React Router DOM**  
+- **Axios**  
+- **React Icons**  
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshots below this section
+
+| Home Page | Coin Detail Page |
+|-----------|------------------|
+| ![Home Screenshot](./screenshots/home.png) | ![Detail Screenshot](./screenshots/detail.png) |
+
+---
+
+## 🔗 Live Demo
+
+Coming soon
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/aakash10123/Crypto-Palace
+cd Crypto-Palace
+npm install
+npm start
